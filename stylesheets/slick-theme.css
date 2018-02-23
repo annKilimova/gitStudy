@@ -2,8 +2,9 @@
 .slaider1 .slick-prev,
 .slaider1 .slick-next
 {
+
     position: absolute;
-    top: 42%;
+    top: 48%;
     left: -25px;
     display: block;
     width: 67px;
